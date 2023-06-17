@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I'm a student living in Germany and I have a passion for programming.
 
-#- [Discord](https://discord.gg/pZKFGWVvfF): Please join this discord to recieve support and see my active Projects.
+# [Discord](https://discord.gg/pZKFGWVvfF): Please join this discord to recieve support and see my active Projects.
 
 ### About Me
 - 🌍 I'm based in Germany.
