@@ -3,6 +3,8 @@
 
 Welcome to my GitHub profile! I'm a student living in Germany and I have a passion for programming.
 
+#- [Discord](https://discord.gg/pZKFGWVvfF): Please join this discord to recieve support and see my active Projects.
+
 ### About Me
 - 🌍 I'm based in Germany.
 - 🎓 Currently, I'm expanding my programming skills.
@@ -16,8 +18,8 @@ I love exploring different programming languages and frameworks. Some of my favo
 
 ### Projects
 Here are some projects I have worked on:
-- [Project 1]([project-link](https://github.com/Neotastisch/WhatsApp-API)): An API for sending/recieving WhatsApp messages.
-- [Project 2]([project-link](https://github.com/Neotastisch/AIRadio)): AI Radio using GPT-4.
+- [Project 1](https://github.com/Neotastisch/WhatsApp-API): An API for sending/recieving WhatsApp messages.
+- [Project 2](https://github.com/Neotastisch/AIRadio): AI Radio using GPT-4.
 - [Project 3](https://github.com/Neotastisch/Autopilot): GTA Autopilot.
 
 ### Contact
