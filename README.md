@@ -22,7 +22,6 @@ Here are some projects I have worked on:
 
 ### Contact
 - 💬 You can reach me on Discord: Neo_original
-- ✉️ Drop me an email at: [contact@neotastisch.de](mailto:contact@neotastisch.de)
 
 ### Check out my repositories
 Don't miss out on my latest repositories and contributions. Check them out on my GitHub profile!
