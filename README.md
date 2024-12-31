@@ -1,6 +1,3 @@
-Here’s the updated version of your README with project-specific stat cards replacing the project links:  
-
----
 
 # Hello there! 👋  
 ## I'm Neo  
