@@ -31,6 +31,7 @@ Here are some highlights of what I’ve been working on:
 [![AWBA](https://github-readme-stats.vercel.app/api/pin/?username=Neotastisch&repo=AWBA&theme=tokyonight)](https://github.com/Neotastisch/AWBA)  
 [![ASFA](https://github-readme-stats.vercel.app/api/pin/?username=Neotastisch&repo=ASFA&theme=tokyonight)](https://github.com/Neotastisch/ASFA)  
 [![NIA](https://github-readme-stats.vercel.app/api/pin/?username=Neotastisch&repo=NIA&theme=tokyonight)](https://github.com/Neotastisch/NIA)  
+[![BotVision](https://github-readme-stats.vercel.app/api/pin/?username=Neotastisch&repo=BotVision&theme=tokyonight)](https://github.com/Neotastisch/BotVision)  
 
 ---
 
