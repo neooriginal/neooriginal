@@ -1,3 +1,7 @@
+Here’s the updated version of your README with project-specific stat cards replacing the project links:  
+
+---
+
 # Hello there! 👋  
 ## I'm Neo  
 
@@ -17,38 +21,25 @@ Welcome to my GitHub profile! I'm a passionate programmer based in Germany, expl
 
 I love diving into different programming languages, frameworks, and tools. Here are some of my favorites:  
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neotastisch&layout=compact&theme=tokyonight)  
 
 ---
 
-## 🚀 Projects  
+## 🚀 Featured Projects  
 
-Here are a few exciting projects I’ve been working on:  
+Here are some highlights of what I’ve been working on:  
 
-- **[ASAR](https://github.com/Neotastisch/ASAR)**: Actually Smart AI Radio 🎵  
-   - A 24/7 radio station that delivers current news, music, and more—powered by AI.  
-
-- **[AHDA](https://github.com/Neotastisch/AHDA)**: Actually Helpful Digital Assistant 🤖  
-   - An AI-driven assistant to control your PC and streamline tasks using LLMs.  
-
-- **[AWBA](https://github.com/Neotastisch/AWBA)**: Autonomous Web Browsing Assistant 🌐  
-   - A smart browser controller for automated web interactions using LLMs.  
-
-- **[ASFA](https://github.com/Neotastisch/ASFA)**: Actually Smart Finance App 💰  
-   - A finance tracking app featuring API integration and LLM-powered features.  
-
-- **[NIA](https://github.com/Neotastisch/NIA)**: Next Interactive Assistant 🌟  
-   - Pioneering persistent AI personality technology for interactive experiences.  
+[![ASAR](https://github-readme-stats.vercel.app/api/pin/?username=Neotastisch&repo=ASAR&theme=tokyonight)](https://github.com/Neotastisch/ASAR)  
+[![AHDA](https://github-readme-stats.vercel.app/api/pin/?username=Neotastisch&repo=AHDA&theme=tokyonight)](https://github.com/Neotastisch/AHDA)  
+[![AWBA](https://github-readme-stats.vercel.app/api/pin/?username=Neotastisch&repo=AWBA&theme=tokyonight)](https://github.com/Neotastisch/AWBA)  
+[![ASFA](https://github-readme-stats.vercel.app/api/pin/?username=Neotastisch&repo=ASFA&theme=tokyonight)](https://github.com/Neotastisch/ASFA)  
+[![NIA](https://github-readme-stats.vercel.app/api/pin/?username=Neotastisch&repo=NIA&theme=tokyonight)](https://github.com/Neotastisch/NIA)  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Neo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neotastisch&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neotastisch&layout=compact&theme=tokyonight)  
+![Neo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neotastisch&show_icons=true&theme=tokyonight&hide_rank=true)  
 
 ---
 
