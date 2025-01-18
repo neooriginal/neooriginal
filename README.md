@@ -33,6 +33,13 @@ Here are some highlights of what I’ve been working on:
 | [![SEDS](https://github-readme-stats.vercel.app/api/pin/?username=Neotastisch&repo=SEDS&theme=tokyonight)](https://github.com/Neotastisch/SEDS) |  [![SAIA](https://github-readme-stats.vercel.app/api/pin/?username=Neotastisch&repo=SAIA&theme=tokyonight)](https://github.com/Neotastisch/SAIA) |  
 ---
 
+---
+
+## 🤝 Contributions
+
+| [![OMI](https://github-readme-stats.vercel.app/api/pin/?username=BasedHardware&repo=omi&theme=tokyonight)]([https://github.com/Neotastisch/ASAR](https://github.com/BasedHardware/omi))
+---
+
 ## 📊 GitHub Stats  
 
 ![Neo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neotastisch&show_icons=true&theme=tokyonight&hide_rank=true)  
