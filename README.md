@@ -37,7 +37,7 @@ Here are some highlights of what I’ve been working on:
 
 ## 🤝 Contributions
 
-| [![OMI](https://github-readme-stats.vercel.app/api/pin/?username=BasedHardware&repo=omi&theme=tokyonight)](https://github.com/BasedHardware/omi)
+[![OMI](https://github-readme-stats.vercel.app/api/pin/?username=BasedHardware&repo=omi&theme=tokyonight)](https://github.com/BasedHardware/omi)
 ---
 
 ## 📊 GitHub Stats  
