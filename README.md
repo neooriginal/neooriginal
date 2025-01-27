@@ -3,7 +3,9 @@
 ## I'm Neo  
 
 Welcome to my GitHub profile! I'm a passionate programmer based in Germany, exploring the exciting world of technology and AI.  
-Join my Discord! https://discord.gg/eUdJ5xdw8Q
+
+Join my Discord! 
+https://discord.gg/eUdJ5xdw8Q
 ---
 
 ## 🌟 About Me  
