@@ -6,6 +6,12 @@ Welcome to my GitHub profile! I'm a passionate programmer based in Germany, expl
 
 Join my Discord! 
 https://discord.gg/eUdJ5xdw8Q
+
+---
+
+## Donations
+https://zap-hosting.com/en/shop/donation/26ec1a9fd782e9891297c0a775476a0c/
+
 ---
 
 ## 🌟 About Me  
