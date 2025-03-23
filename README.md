@@ -26,7 +26,7 @@ https://zap-hosting.com/en/shop/donation/26ec1a9fd782e9891297c0a775476a0c/
 
 I love diving into different programming languages, frameworks, and tools. Here are some of my favorites:  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neotastisch&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neooriginal&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -34,12 +34,12 @@ I love diving into different programming languages, frameworks, and tools. Here 
 
 Here are some highlights of what I’ve been working on:  
 
-| [![ASAR](https://github-readme-stats.vercel.app/api/pin/?username=Neotastisch&repo=ASAR&theme=tokyonight)](https://github.com/Neotastisch/ASAR) | [![AHDA](https://github-readme-stats.vercel.app/api/pin/?username=Neotastisch&repo=AHDA&theme=tokyonight)](https://github.com/Neotastisch/AHDA) |  
+| [![ASAR](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=ASAR&theme=tokyonight)](https://github.com/neooriginal/ASAR) | [![AHDA](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=AHDA&theme=tokyonight)](https://github.com/neooriginal/AHDA) |  
 |:----------------------------------------------------------:|:----------------------------------------------------------:|  
-| [![AWBA](https://github-readme-stats.vercel.app/api/pin/?username=Neotastisch&repo=AWBA&theme=tokyonight)](https://github.com/Neotastisch/AWBA) | [![ASFA](https://github-readme-stats.vercel.app/api/pin/?username=Neotastisch&repo=ASFA&theme=tokyonight)](https://github.com/Neotastisch/ASFA) |  
-| [![NIA](https://github-readme-stats.vercel.app/api/pin/?username=Neotastisch&repo=NIA&theme=tokyonight)](https://github.com/Neotastisch/NIA) | [![BotVision](https://github-readme-stats.vercel.app/api/pin/?username=Neotastisch&repo=BotVision&theme=tokyonight)](https://github.com/Neotastisch/BotVision) |  
-| [![SEDS](https://github-readme-stats.vercel.app/api/pin/?username=Neotastisch&repo=SEDS&theme=tokyonight)](https://github.com/Neotastisch/SEDS) |  [![SAIA](https://github-readme-stats.vercel.app/api/pin/?username=Neotastisch&repo=SAIA&theme=tokyonight)](https://github.com/Neotastisch/SAIA) |  
-[![HowCloseToWorldEnd](https://github-readme-stats.vercel.app/api/pin/?username=Neotastisch&repo=HowCloseToWorldEnd&theme=tokyonight)](https://github.com/Neotastisch/HowCloseToWorldEnd)
+| [![AWBA](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=AWBA&theme=tokyonight)](https://github.com/neooriginal/AWBA) | [![ASFA](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=ASFA&theme=tokyonight)](https://github.com/neooriginal/ASFA) |  
+| [![NIA](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=NIA&theme=tokyonight)](https://github.com/neooriginal/NIA) | [![BotVision](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=BotVision&theme=tokyonight)](https://github.com/neooriginal/BotVision) |  
+| [![SEDS](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=SEDS&theme=tokyonight)](https://github.com/neooriginal/SEDS) |  [![SAIA](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=SAIA&theme=tokyonight)](https://github.com/neooriginal/SAIA) |  
+[![HowCloseToWorldEnd](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=HowCloseToWorldEnd&theme=tokyonight)](https://github.com/neooriginal/HowCloseToWorldEnd)
 
 
 ---
@@ -53,13 +53,13 @@ Here are some highlights of what I’ve been working on:
 
 ## 📊 GitHub Stats  
 
-![Neo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neotastisch&show_icons=true&theme=tokyonight&hide_rank=true)  
+![Neo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neooriginal&show_icons=true&theme=tokyonight&hide_rank=true)  
 
 ---
 
 ## ⭐ Let’s Connect!  
 
 - **Email**: [contact@neo.eu.com](mailto:contact@neo.eu.com)  
-- **GitHub**: [github.com/Neotastisch](https://github.com/Neotastisch)  
+- **GitHub**: [github.com/neooriginal](https://github.com/neooriginal)  
 
 Feel free to explore, fork, and ⭐ star my work. Let’s build something amazing together!  
