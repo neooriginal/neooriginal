@@ -54,7 +54,9 @@ Stuff I’ve built, touched, or accidentally broken in the name of progress:
 
 Sometimes I help with other people’s madness, too.  
 
-| [![OMI](https://github-readme-stats.vercel.app/api/pin/?username=BasedHardware&repo=omi&theme=tokyonight)](https://github.com/BasedHardware/omi) | [![Coolify](https://github-readme-stats.vercel.app/api/pin/?username=coollabsio&repo=coolify&theme=tokyonight)](https://github.com/coollabsio/coolify)|
+
+[![OMI](https://github-readme-stats.vercel.app/api/pin/?username=BasedHardware&repo=omi&theme=tokyonight)](https://github.com/BasedHardware/omi)
+[![Coolify](https://github-readme-stats.vercel.app/api/pin/?username=coollabsio&repo=coolify&theme=tokyonight)](https://github.com/coollabsio/coolify)
 
 
 ---
