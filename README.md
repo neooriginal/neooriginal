@@ -29,6 +29,13 @@ I use whatever works. Sometimes even what doesn’t.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neooriginal&layout=compact&theme=tokyonight)
 
 ---
+## 🧪 Current project
+
+Won't abandon this one, promise
+
+[![Operon.one](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=Operon.one&theme=tokyonight)](https://github.com/neooriginal/Operon.one)
+
+---
 
 ## 🧪 Featured Experiments  
 
