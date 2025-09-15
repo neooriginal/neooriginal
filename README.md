@@ -52,7 +52,7 @@ Stuff I’ve built, touched, or accidentally broken in the name of progress:
 
 ## 🧩 Contributions  
 
-Sometimes I help with other people’s madness, too.  
+Sometimes I help with other people’s stuff, too.  
 
 
 [![OMI](https://github-readme-stats.vercel.app/api/pin/?username=BasedHardware&repo=omi&theme=tokyonight)](https://github.com/BasedHardware/omi)
@@ -63,7 +63,7 @@ Sometimes I help with other people’s madness, too.
 
 ## 📊 Stats That Probably Lie  
 
-GitHub stats, AKA: proof I never touch half my code after 3 AM.
+GitHub stats
 
 ![Neo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neooriginal&show_icons=true&theme=tokyonight&hide_rank=true)
 
@@ -76,8 +76,8 @@ GitHub stats, AKA: proof I never touch half my code after 3 AM.
 
 ---
 
-> Browse. Fork. Get inspired.  
-> Or don’t — I’m not your build system.  
+> Browse. Fork. 
+> Or don’t 
 
 – **Neo**
 
