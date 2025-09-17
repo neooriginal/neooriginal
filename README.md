@@ -5,11 +5,6 @@
 
 Welcome to my corner of GitHub. Projects come and go, ideas evolve, and occasionally, something legendary escapes the dev folder.  
 
-🪐 Discord for code, chaos, and cursed ideas:  
-[discord.gg/eUdJ5xdw8Q](https://discord.gg/eUdJ5xdw8Q)  
-
-☕ Feeling generous? Bless the tea fund:  
-[zap-hosting.com donation link](https://zap-hosting.com/en/shop/donation/26ec1a9fd782e9891297c0a775476a0c/)
 
 ---
 
