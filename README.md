@@ -23,14 +23,6 @@ I use whatever works. Sometimes even what doesn’t.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neooriginal&layout=compact&theme=tokyonight)
 
----
-## 🧪 Current project
-
-Won't abandon this one, promise
-
-[![Operon.one](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=Operon.one&theme=tokyonight)](https://github.com/neooriginal/Operon.one)
-
----
 
 ## 🧪 Featured Experiments  
 
@@ -42,6 +34,8 @@ Stuff I’ve built, touched, or accidentally broken in the name of progress:
 | [![NIA](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=NIA&theme=tokyonight)](https://github.com/neooriginal/NIA) | [![BotVision](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=BotVision&theme=tokyonight)](https://github.com/neooriginal/BotVision) |  
 | [![SEDS](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=SEDS&theme=tokyonight)](https://github.com/neooriginal/SEDS) | [![SAIA](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=SAIA&theme=tokyonight)](https://github.com/neooriginal/SAIA) |  
 | [![HowCloseToWorldEnd](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=HowCloseToWorldEnd&theme=tokyonight)](https://github.com/neooriginal/HowCloseToWorldEnd) |
+
+[![Operon.one](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=Operon.one&theme=tokyonight)](https://github.com/neooriginal/Operon.one)
 
 ---
 
