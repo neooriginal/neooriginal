@@ -4,7 +4,7 @@
   Building things that move, listen, and occasionally crash in interesting ways.
     <br /><br />
   
-  <img src="[https://githubcard.com/neooriginal/BotVision.svg](https://githubcard.com/neooriginal.svg)" width="520px" />
+  <img src="https://githubcard.com/neooriginal.svg" width="520px" />
 </div>
   
 ---
