@@ -1,72 +1,90 @@
-# 🧠 Neo  
-## dev. dreamer. danger to unfinished ideas.  
+<div align="center">
+  <b>Robotics · AI systems · Experimental infrastructure</b>
+  <br />
+  Building things that move, listen, and occasionally crash in interesting ways.
+    <br /><br />
+  https://githubcard.com/neooriginal.svg"
+</div>
+  
+---
 
-> “I start fast, build weird, and ship... sometimes.”  
+## About
 
-Welcome to my corner of GitHub. Projects come and go, ideas evolve, and occasionally, something legendary escapes the dev folder.  
-
+- <img src="https://img.icons8.com/?size=15&id=15502&format=png&color=000000"/> Based in Germany, currently deep into robotics and tooling  
+- 🤖 Working across firmware, backend and orchestration for AI driven systems  
+- 🧯 Projects are either polished or on fire - there is no in between  
 
 ---
 
-## ⚡ About Me  
+## Selected Projects
 
-- 🇩🇪 From Germany, coding like I’ve got plot armor  
-- 🧠 Messing with **LLMs**, **AI systems**, and the edge of what's possible  
-- 🗂 Abandoning projects with the grace of a true visionary  
-- 🚀 Not here to finish everything — just to start what others wouldn’t dare  
+### Robotics & AI
 
----
+<p align="center">
+  <a href="https://github.com/neooriginal/BotVision">
+    <img src="https://githubcard.com/neooriginal/BotVision.svg" width="340px" />
+  </a>
+  <a href="https://github.com/neooriginal/NIA">
+    <img src="https://githubcard.com/neooriginal/NIA.svg" width="340px" />
+  </a>
+</p>
 
-## 🛠️ My Toolbox  
+### Systems & Automation
 
-I use whatever works. Sometimes even what doesn’t.  
+<p align="center">
+  <a href="https://github.com/neooriginal/Operon.one">
+    <img src="https://githubcard.com/neooriginal/Operon.one.svg" width="340px" />
+  </a>
+  <a href="https://github.com/neooriginal/ASAR">
+    <img src="https://githubcard.com/neooriginal/ASAR.svg" width="340px" />
+  </a>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neooriginal&layout=compact&theme=tokyonight)
+### Experiments
 
+<p align="center">
+  <a href="https://github.com/neooriginal/HowCloseToWorldEnd">
+    <img src="https://githubcard.com/neooriginal/HowCloseToWorldEnd.svg" width="340px" />
+  </a>
+  <a href="https://github.com/neooriginal/SEDS">
+    <img src="https://githubcard.com/neooriginal/SEDS.svg" width="340px" />
+  </a>
+</p>
 
-## 🧪 Featured Experiments  
-
-Stuff I’ve built, touched, or accidentally broken in the name of progress:  
-
-| [![ASAR](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=ASAR&theme=tokyonight)](https://github.com/neooriginal/ASAR) | [![AHDA](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=AHDA&theme=tokyonight)](https://github.com/neooriginal/AHDA) |  
-|:----------------------------------------------------------:|:----------------------------------------------------------:|  
-| [![ASFA](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=ASFA&theme=tokyonight)](https://github.com/neooriginal/ASFA) | [![FSCS](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=FSCS&theme=tokyonight)](https://github.com/neooriginal/FSCS) |
-| [![NIA](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=NIA&theme=tokyonight)](https://github.com/neooriginal/NIA) | [![BotVision](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=BotVision&theme=tokyonight)](https://github.com/neooriginal/BotVision) |  
-| [![SEDS](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=SEDS&theme=tokyonight)](https://github.com/neooriginal/SEDS) | [![SAIA](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=SAIA&theme=tokyonight)](https://github.com/neooriginal/SAIA) |  
-| [![HowCloseToWorldEnd](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=HowCloseToWorldEnd&theme=tokyonight)](https://github.com/neooriginal/HowCloseToWorldEnd) |
-
-[![Operon.one](https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=Operon.one&theme=tokyonight)](https://github.com/neooriginal/Operon.one)
-
----
-
-## 🧩 Contributions  
-
-Sometimes I help with other people’s stuff, too.  
-
-
-[![OMI](https://github-readme-stats.vercel.app/api/pin/?username=BasedHardware&repo=omi&theme=tokyonight)](https://github.com/BasedHardware/omi)
-[![Coolify](https://github-readme-stats.vercel.app/api/pin/?username=coollabsio&repo=coolify&theme=tokyonight)](https://github.com/coollabsio/coolify)
-
-
----
-
-## 📊 Stats That Probably Lie  
-
-GitHub stats
-
-![Neo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neooriginal&show_icons=true&theme=tokyonight&hide_rank=true)
-
----
-
-## 🛰️ Connect with the Chaos  
-
-- ✉️ [contact@neo.eu.com](mailto:contact@neo.eu.com)  
-- 🧬 [github.com/neooriginal](https://github.com/neooriginal)
+<p align="center">
+  <a href="https://github.com/neooriginal/AHDA">
+    <img src="https://githubcard.com/neooriginal/AHDA.svg" width="280px" />
+  </a>
+  <a href="https://github.com/neooriginal/ASFA">
+    <img src="https://githubcard.com/neooriginal/ASFA.svg" width="280px" />
+  </a>
+  <a href="https://github.com/neooriginal/FSCS">
+    <img src="https://githubcard.com/neooriginal/FSCS.svg" width="280px" />
+  </a>
+  <a href="https://github.com/neooriginal/SAIA">
+    <img src="https://githubcard.com/neooriginal/SAIA.svg" width="280px" />
+  </a>
+</p>
 
 ---
 
-> Browse. Fork. 
-> Or don’t 
+## Collaborations
 
-– **Neo**
+<p align="center">
+  <a href="https://github.com/BasedHardware/omi">
+    <img src="https://githubcard.com/BasedHardware/omi.svg" width="320px" />
+  </a>
+  <a href="https://github.com/Grigorij-Dudnik/RoboCrew">
+    <img src="https://githubcard.com/Grigorij-Dudnik/RoboCrew.svg" width="320px" />
+  </a>
+  <a href="https://github.com/coollabsio/coolify">
+    <img src="https://githubcard.com/coollabsio/coolify.svg" width="320px" />
+  </a>
+</p>
 
+---
+
+## Contact
+
+- **Email:** contact@neo.eu.com  
+- **GitHub:** https://github.com/neooriginal
