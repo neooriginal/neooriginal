@@ -19,13 +19,9 @@
 
 ## Featured
 
-### [ARCS](https://github.com/neooriginal/ARCS) — Autonomous Robot Control System
+### [ARCS](https://github.com/neooriginal/ARCS) — Autonomous Robot Control Systel
 
 An experiment in building a self-learning, autonomous robot control stack. Handles perception, planning, and execution for multi-DOF robotic systems.
-
-```
-python main.py --mode autonomous --model arcs_v1
-```
 
 ---
 
