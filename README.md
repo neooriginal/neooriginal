@@ -6,7 +6,7 @@
   
   <img src="https://githubcard.com/neooriginal.svg" width="520px" />
 </div>
-  
+
 ---
 
 ## About
@@ -14,6 +14,18 @@
 - <img src="https://img.icons8.com/?size=15&id=15502&format=png&color=000000"/> Based in Germany, currently deep into robotics and tooling  
 - 🤖 Working across firmware, backend and orchestration for AI driven systems  
 - 🧯 Projects are either polished or on fire - there is no in between  
+
+---
+
+## Featured
+
+### [ARCS](https://github.com/neooriginal/ARCS) — Autonomous Robot Control System
+
+An experiment in building a self-learning, autonomous robot control stack. Handles perception, planning, and execution for multi-DOF robotic systems.
+
+```
+python main.py --mode autonomous --model arcs_v1
+```
 
 ---
 
@@ -27,9 +39,6 @@
   </a>
   <a href="https://github.com/neooriginal/NIA">
     <img src="https://githubcard.com/neooriginal/NIA.svg" width="340px" />
-  </a>
-  <a href="https://github.com/neooriginal/ARCS">
-    <img src="https://githubcard.com/neooriginal/ARCS.svg" width="340px" />
   </a>
 </p>
 
@@ -97,4 +106,4 @@
 ## Contact
 
 - **Email:** contact@neo.eu.com  
-- **GitHubz** https://github.com/neooriginal
+- **GitHub:** https://github.com/neooriginal
