@@ -28,6 +28,9 @@
   <a href="https://github.com/neooriginal/NIA">
     <img src="https://githubcard.com/neooriginal/NIA.svg" width="340px" />
   </a>
+  <a href="https://github.com/neooriginal/ARCS">
+    <img src="https://githubcard.com/neooriginal/ARCS.svg" width="340px" />
+  </a>
 </p>
 
 ### Systems & Automation
@@ -39,16 +42,19 @@
   <a href="https://github.com/neooriginal/ASAR">
     <img src="https://githubcard.com/neooriginal/ASAR.svg" width="340px" />
   </a>
+  <a href="https://github.com/neooriginal/OMI.me-Apps">
+    <img src="https://githubcard.com/neooriginal/OMI.me-Apps.svg" width="340px" />
+  </a>
 </p>
 
 ### Experiments
 
 <p align="center">
   <a href="https://github.com/neooriginal/HowCloseToWorldEnd">
-    <img src="https://githubcard.com/neooriginal/HowCloseToWorldEnd.svg" width="340px" />
+    <img src="https://githubcard.com/neooriginal/HowCloseToWorldEnd.svg" width="280px" />
   </a>
   <a href="https://github.com/neooriginal/SEDS">
-    <img src="https://githubcard.com/neooriginal/SEDS.svg" width="340px" />
+    <img src="https://githubcard.com/neooriginal/SEDS.svg" width="280px" />
   </a>
 </p>
 
@@ -81,6 +87,9 @@
   <a href="https://github.com/coollabsio/coolify">
     <img src="https://githubcard.com/coollabsio/coolify.svg" width="320px" />
   </a>
+  <a href="https://github.com/ClawdBot/clawdbot">
+    <img src="https://githubcard.com/ClawdBot/clawdbot.svg" width="320px" />
+  </a>
 </p>
 
 ---
@@ -88,4 +97,4 @@
 ## Contact
 
 - **Email:** contact@neo.eu.com  
-- **GitHub:** https://github.com/neooriginal
+- **GitHubz** https://github.com/neooriginal
