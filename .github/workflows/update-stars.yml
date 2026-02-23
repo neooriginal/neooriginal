@@ -1,0 +1,50 @@
+name: Update README Stars
+
+on:
+  schedule:
+    # Run every day at midnight
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch star counts
+        id: stars
+        run: |
+          # Featured projects to track
+          declare -A repos=(
+            ["HowCloseToWorldEnd"]=0
+            ["OMI.me-Apps"]=0
+            ["Operon.one"]=0
+            ["AHDA"]=0
+            ["ASAR"]=0
+            ["Aether"]=0
+            ["ARCS"]=0
+          )
+          
+          for repo in "${!repos[@]}"; do
+            count=$(curl -s https://api.github.com/repos/neooriginal/$repo | jq -r '.stargazers_count // 0')
+            repos[$repo]=$count
+          done
+          
+          echo "stars=$(echo '${repos[@]}' | jq -Rs 'split(" ")|map(tonumber)|{HowCloseToWorldEnd:.[0],OMI.me_Apps:.[1],Operon.one:.[2],AHDA:.[3],ASAR:.[4],Aether:.[5],ARCS:.[6]}')" >> $GITHUB_OUTPUT
+
+      - name: Update README
+        run: |
+          # This is a placeholder - full implementation would use a script
+          # to replace star counts in the table
+          echo "Stars fetched: ${{ steps.stars.outputs.stars }}"
+          # In a full implementation, use sed/awk to update the table
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff --staged --quiet || git commit -m "docs: update star counts"
+          git push
