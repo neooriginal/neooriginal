@@ -1,0 +1,119 @@
+name: Update Project Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch repo data
+        id: data
+        run: |
+          # Get all repos with stars
+          repos=$(curl -s 'https://api.github.com/users/neooriginal/repos?sort=updated&per_page=100' | \
+            jq '[.[] | {name: .name, stars: .stargazers_count, language: .language, description: .description}]')
+          
+          # Get follower count
+          followers=$(curl -s 'https://api.github.com/users/neooriginal' | jq '.followers')
+          
+          # Get total stars
+          total_stars=$(curl -s 'https://api.github.com/users/neooriginal' | jq '.public_repos')
+          
+          echo "repos=$repos" >> $GITHUB_OUTPUT
+          echo "followers=$followers" >> $GITHUB_OUTPUT
+
+      - name: Update README
+        run: |
+          cat > update_script.py << 'PYTHON_SCRIPT'
+          import json
+          import os
+
+          # Parse input
+          repos_data = os.environ.get('REPOS_DATA', '[]')
+          followers = int(os.environ.get('FOLLOWERS', '0'))
+
+          repos = json.loads(repos_data)
+
+          # Sort by stars descending
+          sorted_repos = sorted(repos, key=lambda x: x.get('stars', 0), reverse=True)
+
+          # Get top 7 featured
+          featured = sorted_repos[:7]
+
+          # Build featured table
+          featured_md = "### 🚀 Featured Projects\n\n| Project | Description | ⭐ |\n|---------|-------------|---|\n"
+          for repo in featured:
+              name = repo.get('name', '')
+              desc = repo.get('description', '') or ''
+              desc = desc[:50] + '...' if len(desc) > 50 else desc
+              stars = repo.get('stars', 0)
+              featured_md += f"| [{name}](https://github.com/neooriginal/{name}) | {desc} | {stars} |\n"
+
+          # Build all projects table (top 25 by stars)
+          all_repos = sorted_repos[:25]
+          all_md = "\n### 📚 All Projects\n\n| Project | Language | Description |\n|---------|----------|-------------|\n"
+          for repo in all_repos:
+              name = repo.get('name', '')
+              lang = repo.get('language') or 'N/A'
+              desc = repo.get('description') or ''
+              desc = desc[:40] + '...' if len(desc) > 40 else desc
+              all_md += f"| [{name}](https://github.com/neooriginal/{name}) | {lang} | {desc} |\n"
+
+          # Read current README
+          with open('README.md', 'r') as f:
+              content = f.read()
+
+          # Replace sections
+          import re
+
+          # Replace featured section
+          featured_pattern = r'### 🚀 Featured Projects\n\n\|.*?\n\|---.*?\n.*?(?=\n### |\n<!-- DO NOT EDIT)'
+          content = re.sub(featured_pattern, featured_md.strip(), content, flags=re.DOTALL)
+
+          # Replace all projects section
+          all_pattern = r'### 📚 All Projects\n\n\|.*?\n\|---.*?\n.*?(?=\n### |\n<!-- DO NOT EDIT)'
+          content = re.sub(all_pattern, all_md.strip(), content, flags=re.DOTALL)
+
+          # Update followers badge
+          content = re.sub(
+            r'img.shields.io/github/followers/neooriginal\?[^"]*"',
+            f'img.shields.io/github/followers/neooriginal?style=flat-square&color=11b7ac"',
+            content
+          )
+
+          with open('README.md', 'w') as f:
+              f.write(content)
+
+          print(f"Updated with {len(repos)} repos, {len(featured)} featured")
+          PYTHON_SCRIPT
+
+          python3 update_script.py
+
+          rm update_script.py
+
+        env:
+          REPOS_DATA: ${{ steps.data.outputs.repos }}
+          FOLLOWERS: ${{ steps.data.outputs.followers }}
+
+      - name: Commit and push
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git add README.md
+            git commit -m "docs: auto-update project stats"
+            git push
+          fi

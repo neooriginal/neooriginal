@@ -7,6 +7,10 @@
   <img src="https://img.shields.io/github/followers/neooriginal?style=flat-square&color=11b7ac" alt="followers"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=neooriginal&theme=tokyonight&background=0d1117&border=11b7ac&stroke=11b7ac&fire=11b7ac&currStreakNum=11b7ac&sideNums=11b7ac" alt="streak"/>
+</p>
+
 ---
 
 ### 🤖 About Me
@@ -88,3 +92,6 @@
 </p>
 
 </div>
+
+<!-- DO NOT EDIT BELOW THIS LINE - Auto-updated by GitHub Actions -->
+<!-- STAR_COUNT_MARKER -->
