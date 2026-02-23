@@ -1,105 +1,79 @@
 <div align="center">
-  <b>Robotics · AI systems · Experimental infrastructure</b>
-  <br />
-  Building things that move, listen, and occasionally crash in interesting ways.
-    <br /><br />
-  
-  <img src="https://githubcard.com/neooriginal.svg" width="520px" />
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:11b7ac,100:067c70&height=200&section=header&text=Hey,+I'm+Neo&fontSize=80&animation=fadeIn&align=center&fontAlignY=35)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=neooriginal&style=flat-square&color=11b7ac&label=Profile+Views" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/neooriginal?style=flat-square&color=11b7ac" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/neooriginal?style=flat-square&color=11b7ac" alt="stars"/>
+</p>
+
+---
+
+### 🤖 About Me
+
+- 🔭 **Working on:** AI agents, voice interfaces, robotics
+- 🌱 **Learning:** Electronics & hardware prototyping  
+- ⚡ **Fun fact:** My projects are either polished or on fire — no in between
+- 📍 **Location:** Germany (Braunschweig → Frankfurt soon)
+- 🎓 **Age:** 18 — building the future at an early age
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,dart,flutter,nodejs,react,ai,mongodb,redis,docker,git&perline=6&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neooriginal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=11b7ac&title_color=11b7ac" height="180" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neooriginal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=11b7ac&title_color=11b7ac" height="180" alt="languages"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [Aether](https://github.com/neooriginal/Aether) | Next-gen memory system for AI-Human collaboration | ⭐ 4 |
+| [HowCloseToWorldEnd](https://github.com/neooriginal/HowCloseToWorldEnd) | AI evaluates world-ending probability from news | ⭐ 59 |
+| [OpenClaw](https://github.com/neooriginal/openclaw) | Your personal AI assistant for any OS | ⭐ 1 |
+| [OMI.me-Apps](https://github.com/neooriginal/OMI.me-Apps) | Apps for OMI.me wearable AI | ⭐ 27 |
+| [Operon.one](https://github.com/neooriginal/Operon.one) | AI agent that acts & adapts across platforms | ⭐ 17 |
+| [AHDA](https://github.com/neooriginal/AHDA) | Actually Helpful Digital Assistant | ⭐ 14 |
+| [ARCS](https://github.com/neooriginal/ARCS) | Autonomous Robot Control System | ⭐ 3 |
+
+---
+
+### 🔗 Connect
+
+<p align="center">
+  <a href="https://github.com/neooriginal">
+    <img src="https://img.shields.io/badge/GitHub-11b7ac?style=flat-square&logo=github" alt="github"/>
+  </a>
+  <a href="https://discord.gg/">
+    <img src="https://img.shields.io/badge/Discord-11b7ac?style=flat-square&logo=discord" alt="discord"/>
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/Twitter-11b7ac?style=flat-square&logo=twitter" alt="twitter"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&color=11b7ac" alt="quote"/>
+</p>
+
 </div>
 
 ---
-
-## About
-
-- <img src="https://img.icons8.com/?size=15&id=15502&format=png&color=000000"/> Based in Germany, currently deep into robotics and tooling  
-- 🤖 Working across firmware, backend and orchestration for AI driven systems  
-- 🧯 Projects are either polished or on fire - there is no in between  
-
----
-
-## Featured
-
-### [ARCS](https://github.com/neooriginal/ARCS) — Autonomous Robot Control Systel
-
-An experiment in building a self-learning, autonomous robot control stack. Handles perception, planning, and execution for multi-DOF robotic systems.
-
----
-
-## Selected Projects
-
-### Robotics & AI
-
 <p align="center">
-  <a href="https://github.com/neooriginal/BotVision">
-    <img src="https://githubcard.com/neooriginal/BotVision.svg" width="340px" />
-  </a>
-  <a href="https://github.com/neooriginal/NIA">
-    <img src="https://githubcard.com/neooriginal/NIA.svg" width="340px" />
-  </a>
+  <i>Building things that move, listen, and occasionally crash in interesting ways.</i>
 </p>
-
-### Systems & Automation
-
-<p align="center">
-  <a href="https://github.com/neooriginal/Operon.one">
-    <img src="https://githubcard.com/neooriginal/Operon.one.svg" width="340px" />
-  </a>
-  <a href="https://github.com/neooriginal/ASAR">
-    <img src="https://githubcard.com/neooriginal/ASAR.svg" width="340px" />
-  </a>
-  <a href="https://github.com/neooriginal/OMI.me-Apps">
-    <img src="https://githubcard.com/neooriginal/OMI.me-Apps.svg" width="340px" />
-  </a>
-</p>
-
-### Experiments
-
-<p align="center">
-  <a href="https://github.com/neooriginal/HowCloseToWorldEnd">
-    <img src="https://githubcard.com/neooriginal/HowCloseToWorldEnd.svg" width="280px" />
-  </a>
-  <a href="https://github.com/neooriginal/SEDS">
-    <img src="https://githubcard.com/neooriginal/SEDS.svg" width="280px" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/neooriginal/AHDA">
-    <img src="https://githubcard.com/neooriginal/AHDA.svg" width="280px" />
-  </a>
-  <a href="https://github.com/neooriginal/ASFA">
-    <img src="https://githubcard.com/neooriginal/ASFA.svg" width="280px" />
-  </a>
-  <a href="https://github.com/neooriginal/FSCS">
-    <img src="https://githubcard.com/neooriginal/FSCS.svg" width="280px" />
-  </a>
-  <a href="https://github.com/neooriginal/SAIA">
-    <img src="https://githubcard.com/neooriginal/SAIA.svg" width="280px" />
-  </a>
-</p>
-
----
-
-## Collaborations
-
-<p align="center">
-  <a href="https://github.com/BasedHardware/omi">
-    <img src="https://githubcard.com/BasedHardware/omi.svg" width="320px" />
-  </a>
-  <a href="https://github.com/Grigorij-Dudnik/RoboCrew">
-    <img src="https://githubcard.com/Grigorij-Dudnik/RoboCrew.svg" width="320px" />
-  </a>
-  <a href="https://github.com/coollabsio/coolify">
-    <img src="https://githubcard.com/coollabsio/coolify.svg" width="320px" />
-  </a>
-  <a href="https://github.com/ClawdBot/clawdbot">
-    <img src="https://githubcard.com/ClawdBot/clawdbot.svg" width="320px" />
-  </a>
-</p>
-
----
-
-## Contact
-
-- **Email:** contact@neo.eu.com  
-- **GitHub:** https://github.com/neooriginal
