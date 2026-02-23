@@ -14,8 +14,7 @@
 - 🔭 **Working on:** AI agents, voice interfaces, robotics
 - 🌱 **Learning:** Electronics & hardware prototyping  
 - ⚡ **Fun fact:** My projects are either polished or on fire — no in between
-- 📍 **Location:** Germany (Braunschweig → Frankfurt soon)
-- 🎓 **Age:** 18 — building the future at an early age
+- 📍 **Location:** Germany
 
 ---
 
