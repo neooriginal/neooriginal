@@ -34,6 +34,10 @@
 
 | Project | Description | ⭐ |
 |---------|-------------|---|
+| [NeoMail](https://github.com/NeoLabs-Systems/NeoMail) | AI-powered email client | - |
+| [NeoDoc](https://github.com/NeoLabs-Systems/NeoDoc) | AI document management | - |
+| [NeoNote](https://github.com/NeoLabs-Systems/NeoNote) | AI note-taking app | - |
+| [NeoGPT](https://github.com/NeoLabs-Systems/NeoGPT) | Custom GPT assistant | - |
 | [HowCloseToWorldEnd](https://github.com/neooriginal/HowCloseToWorldEnd) | AI evaluates world-ending probability from news | 59 |
 | [OMI.me-Apps](https://github.com/neooriginal/OMI.me-Apps) | Apps for OMI.me wearable AI | 27 |
 | [Operon.one](https://github.com/neooriginal/Operon.one) | AI agent that acts & adapts across platforms | 17 |
@@ -79,8 +83,7 @@
 
 ### 🏢 Organizations
 
-- [NeoLabs-Systems Repositories](https://github.com/orgs/NeoLabs-Systems/repositories)
-  - NeoMail, NeoDoc, NeoNote, NeoGPT (coming soon)
+- [NeoLabs-Systems](https://github.com/NeoLabs-Systems) - NeoMail, NeoDoc, NeoNote, NeoGPT
 
 ---
 
