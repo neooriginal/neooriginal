@@ -77,6 +77,12 @@
 
 ---
 
+### 🏢 Organizations
+
+- [NeoLabs-Systems Repositories](https://github.com/orgs/NeoLabs-Systems/repositories)
+
+---
+
 ### 🔗 Connect
 
 <p align="center">
