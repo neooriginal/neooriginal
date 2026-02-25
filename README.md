@@ -80,6 +80,7 @@
 ### 🏢 Organizations
 
 - [NeoLabs-Systems Repositories](https://github.com/orgs/NeoLabs-Systems/repositories)
+  - NeoMail, NeoDoc, NeoNote, NeoGPT (coming soon)
 
 ---
 
