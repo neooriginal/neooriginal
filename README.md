@@ -36,8 +36,6 @@
 |---------|-------------|---|
 | [NeoMail](https://github.com/NeoLabs-Systems/NeoMail) | AI-powered email client | - |
 | [NeoDoc](https://github.com/NeoLabs-Systems/NeoDoc) | AI document management | - |
-| [NeoNote](https://github.com/NeoLabs-Systems/NeoNote) | AI note-taking app | - |
-| [NeoGPT](https://github.com/NeoLabs-Systems/NeoGPT) | Custom GPT assistant | - |
 | [HowCloseToWorldEnd](https://github.com/neooriginal/HowCloseToWorldEnd) | AI evaluates world-ending probability from news | 59 |
 | [OMI.me-Apps](https://github.com/neooriginal/OMI.me-Apps) | Apps for OMI.me wearable AI | 27 |
 | [Operon.one](https://github.com/neooriginal/Operon.one) | AI agent that acts & adapts across platforms | 17 |
@@ -52,6 +50,8 @@
 
 | Project | Language | Description |
 |---------|----------|-------------|
+| [NeoNote](https://github.com/NeoLabs-Systems/NeoNote) | JavaScript | AI note-taking app |
+| [NeoGPT](https://github.com/NeoLabs-Systems/NeoGPT) | JavaScript | Custom GPT assistant |
 | [NutriSnap](https://github.com/neooriginal/NutriSnap) | JavaScript | Food tracking app |
 | [Project Epsilon](https://github.com/neooriginal/project-epsilon) | Dart | AI wearables - speak, transcribe, automatically |
 | [Aether](https://github.com/neooriginal/Aether) | JavaScript | Memory system for AI-Human collaboration |
