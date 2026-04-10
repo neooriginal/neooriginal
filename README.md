@@ -50,9 +50,6 @@
 
 | Project | Language | Description |
 |---------|----------|-------------|
-| [NeoNote](https://github.com/NeoLabs-Systems/NeoNote) | JavaScript | AI note-taking app |
-| [NeoGPT](https://github.com/NeoLabs-Systems/NeoGPT) | JavaScript | Custom GPT assistant |
-| [NutriSnap](https://github.com/neooriginal/NutriSnap) | JavaScript | Food tracking app |
 | [Project Epsilon](https://github.com/neooriginal/project-epsilon) | Dart | AI wearables - speak, transcribe, automatically |
 | [Aether](https://github.com/neooriginal/Aether) | JavaScript | Memory system for AI-Human collaboration |
 | [Telnyx-OpenClaw-Voice](https://github.com/neooriginal/Telnyx-OpenClaw-Voice) | JavaScript | Voice agent fix |
