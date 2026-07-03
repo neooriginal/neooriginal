@@ -228,7 +228,7 @@ Next-generation memory system for AI-human collaboration.
 
 <img src="https://streak-stats.demolab.com/?user=neooriginal&theme=tokyonight&background=0d1117&border=11b7ac&stroke=11b7ac&fire=11b7ac&currStreakNum=11b7ac&sideNums=11b7ac&ring=11b7ac" alt="streak"/>
 
-<img src="https://raw.githubusercontent.com/neooriginal/neooriginal/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+<img src="https://raw.githubusercontent.com/neooriginal/neooriginal/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 
 </div>
 
