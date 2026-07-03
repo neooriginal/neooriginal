@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:11b7ac,100:067c70&height=200&section=header&text=Hey,%20I'm%20Neo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <a href="https://github.com/NeoLabs-Systems">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=11B7AC&center=true&vCenter=true&width=560&lines=Founder+%40+NeoLabs-Systems;Building+AI+agents+that+actually+ship;Voice+interfaces+%2B+robotics+%2B+automation;Projects+are+either+polished+or+on+fire" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=11B7AC&center=true&vCenter=true&width=560&lines=Founder+%40+NeoLabs-Systems;Shipping+consumer+AI+apps+that+respect+your+data;Building+wild+experiments+on+the+side;Projects+are+either+polished+or+on+fire" alt="typing banner" />
 </a>
 
 <p align="center">
@@ -20,19 +20,20 @@
 
 ```yaml
 role:      Founder @ NeoLabs-Systems
-focus:     AI agents · voice interfaces · robotics · automation
+day_job:   Consumer apps — self-hosted, privacy-first, built for real users
+side_desk: AI agents, voice interfaces, robotics — fun, experimental, occasionally on fire
 learning:  Electronics & hardware prototyping
-motto:     "Projects are either polished or on fire — no in between"
+location:  Germany
 ```
 
 <br/>
 
 <div align="center">
 
-## 🏢 NeoLabs-Systems
+## 🏢 NeoLabs-Systems — Consumer Apps
 
-**Innovative Systems** — the org where my production work lives.
-Self-hosted, privacy-first tools: AI agents, mail, documents, health, and data control.
+**Innovative Systems.** The org where my *shipped, maintained, for-real-users* work lives —
+self-hosted and privacy-first by design.
 
 <a href="https://github.com/NeoLabs-Systems">
   <img src="https://img.shields.io/badge/View%20Organization-11b7ac?style=for-the-badge&logo=github&logoColor=white" alt="view org"/>
@@ -42,37 +43,69 @@ Self-hosted, privacy-first tools: AI agents, mail, documents, health, and data c
 
 <table>
 <tr>
-<td width="50%">
-<a href="https://github.com/NeoLabs-Systems/NeoAgent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NeoLabs-Systems&repo=NeoAgent&theme=tokyonight&bg_color=0d1117&border_color=11b7ac&title_color=11b7ac&icon_color=11b7ac&hide_border=false" alt="NeoAgent"/>
-</a>
+<td width="50%" valign="top">
+
+**[NeoAgent](https://github.com/NeoLabs-Systems/NeoAgent)**
+Self-hosted AI agent for automation, messaging, tools, integrations, and device control.
+
+<sub>
+<img src="https://img.shields.io/github/stars/NeoLabs-Systems/NeoAgent?style=flat-square&color=11b7ac&label=★" alt="stars"/>
+<img src="https://img.shields.io/github/languages/top/NeoLabs-Systems/NeoAgent?style=flat-square&color=067c70&label=" alt="language"/>
+</sub>
+
 </td>
-<td width="50%">
-<a href="https://github.com/NeoLabs-Systems/NeoMail">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NeoLabs-Systems&repo=NeoMail&theme=tokyonight&bg_color=0d1117&border_color=11b7ac&title_color=11b7ac&icon_color=11b7ac&hide_border=false" alt="NeoMail"/>
-</a>
+<td width="50%" valign="top">
+
+**[NeoMail](https://github.com/NeoLabs-Systems/NeoMail)**
+Self-hosted AI email client, made for AI.
+
+<sub>
+<img src="https://img.shields.io/github/stars/NeoLabs-Systems/NeoMail?style=flat-square&color=11b7ac&label=★" alt="stars"/>
+<img src="https://img.shields.io/github/languages/top/NeoLabs-Systems/NeoMail?style=flat-square&color=067c70&label=" alt="language"/>
+</sub>
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<a href="https://github.com/NeoLabs-Systems/NeoDoc">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NeoLabs-Systems&repo=NeoDoc&theme=tokyonight&bg_color=0d1117&border_color=11b7ac&title_color=11b7ac&icon_color=11b7ac&hide_border=false" alt="NeoDoc"/>
-</a>
+<td width="50%" valign="top">
+
+**[NeoDoc](https://github.com/NeoLabs-Systems/NeoDoc)**
+Document organizer and signing app.
+
+<sub>
+<img src="https://img.shields.io/github/stars/NeoLabs-Systems/NeoDoc?style=flat-square&color=11b7ac&label=★" alt="stars"/>
+<img src="https://img.shields.io/github/languages/top/NeoLabs-Systems/NeoDoc?style=flat-square&color=067c70&label=" alt="language"/>
+</sub>
+
 </td>
-<td width="50%">
-<a href="https://github.com/NeoLabs-Systems/NeoNutri">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NeoLabs-Systems&repo=NeoNutri&theme=tokyonight&bg_color=0d1117&border_color=11b7ac&title_color=11b7ac&icon_color=11b7ac&hide_border=false" alt="NeoNutri"/>
-</a>
+<td width="50%" valign="top">
+
+**[NeoNutri](https://github.com/NeoLabs-Systems/NeoNutri)**
+BitePal-inspired food tracking app.
+
+<sub>
+<img src="https://img.shields.io/github/stars/NeoLabs-Systems/NeoNutri?style=flat-square&color=11b7ac&label=★" alt="stars"/>
+<img src="https://img.shields.io/github/languages/top/NeoLabs-Systems/NeoNutri?style=flat-square&color=067c70&label=" alt="language"/>
+</sub>
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<a href="https://github.com/NeoLabs-Systems/NeoDataRemoval">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NeoLabs-Systems&repo=NeoDataRemoval&theme=tokyonight&bg_color=0d1117&border_color=11b7ac&title_color=11b7ac&icon_color=11b7ac&hide_border=false" alt="NeoDataRemoval"/>
-</a>
+<td width="50%" valign="top">
+
+**[NeoDataRemoval](https://github.com/NeoLabs-Systems/NeoDataRemoval)**
+Automatically remove your private data from the internet.
+
+<sub>
+<img src="https://img.shields.io/github/stars/NeoLabs-Systems/NeoDataRemoval?style=flat-square&color=11b7ac&label=★" alt="stars"/>
+<img src="https://img.shields.io/github/languages/top/NeoLabs-Systems/NeoDataRemoval?style=flat-square&color=067c70&label=" alt="language"/>
+</sub>
+
 </td>
 <td width="50%" align="center" valign="middle">
-<sub><i>5 public repos in the org · self-hosted, privacy-first software</i></sub>
+
+<sub><i>5 public repos in the org<br/>self-hosted · privacy-first · consumer-facing</i></sub>
+
 </td>
 </tr>
 </table>
@@ -89,51 +122,94 @@ Self-hosted, privacy-first tools: AI agents, mail, documents, health, and data c
 
 <br/>
 
-## 🚀 Personal Projects
+## 🧪 Personal Playground — Experiments & Side Projects
 
 <div align="center">
+
+Fun projects I build for myself, outside the day job. Expect rough edges, breaking changes,
+and the occasional abandoned branch — these are experiments, not products.
+
+<br/>
+
 <table>
 <tr>
-<td width="50%">
-<a href="https://github.com/neooriginal/HowCloseToWorldEnd">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=HowCloseToWorldEnd&theme=tokyonight&bg_color=0d1117&border_color=30363d&hide_border=false" alt="HowCloseToWorldEnd"/>
-</a>
+<td width="50%" valign="top">
+
+**[HowCloseToWorldEnd](https://github.com/neooriginal/HowCloseToWorldEnd)**
+Uses AI to evaluate how close the world is to ending, based on current news, and maps it.
+
+<sub>
+<img src="https://img.shields.io/github/stars/neooriginal/HowCloseToWorldEnd?style=flat-square&color=6e7681&label=★" alt="stars"/>
+<img src="https://img.shields.io/github/languages/top/neooriginal/HowCloseToWorldEnd?style=flat-square&color=6e7681&label=" alt="language"/>
+</sub>
+
 </td>
-<td width="50%">
-<a href="https://github.com/neooriginal/OMI.me-Apps">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=OMI.me-Apps&theme=tokyonight&bg_color=0d1117&border_color=30363d&hide_border=false" alt="OMI.me-Apps"/>
-</a>
+<td width="50%" valign="top">
+
+**[OMI.me-Apps](https://github.com/neooriginal/OMI.me-Apps)**
+A collection of apps for the OMI wearable AI device.
+
+<sub>
+<img src="https://img.shields.io/github/stars/neooriginal/OMI.me-Apps?style=flat-square&color=6e7681&label=★" alt="stars"/>
+<img src="https://img.shields.io/github/languages/top/neooriginal/OMI.me-Apps?style=flat-square&color=6e7681&label=" alt="language"/>
+</sub>
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<a href="https://github.com/neooriginal/Operon.one">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=Operon.one&theme=tokyonight&bg_color=0d1117&border_color=30363d&hide_border=false" alt="Operon.one"/>
-</a>
+<td width="50%" valign="top">
+
+**[Operon.one](https://github.com/neooriginal/Operon.one)**
+An AI agent that doesn't just think — it acts, adapts, and accelerates across every platform you use.
+
+<sub>
+<img src="https://img.shields.io/github/stars/neooriginal/Operon.one?style=flat-square&color=6e7681&label=★" alt="stars"/>
+<img src="https://img.shields.io/github/languages/top/neooriginal/Operon.one?style=flat-square&color=6e7681&label=" alt="language"/>
+</sub>
+
 </td>
-<td width="50%">
-<a href="https://github.com/neooriginal/AHDA">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=AHDA&theme=tokyonight&bg_color=0d1117&border_color=30363d&hide_border=false" alt="AHDA"/>
-</a>
+<td width="50%" valign="top">
+
+**[AHDA](https://github.com/neooriginal/AHDA)**
+Actually Helpful Digital Assistant — let AI control your PC.
+
+<sub>
+<img src="https://img.shields.io/github/stars/neooriginal/AHDA?style=flat-square&color=6e7681&label=★" alt="stars"/>
+<img src="https://img.shields.io/github/languages/top/neooriginal/AHDA?style=flat-square&color=6e7681&label=" alt="language"/>
+</sub>
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<a href="https://github.com/neooriginal/ASAR">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=ASAR&theme=tokyonight&bg_color=0d1117&border_color=30363d&hide_border=false" alt="ASAR"/>
-</a>
+<td width="50%" valign="top">
+
+**[ASAR](https://github.com/neooriginal/ASAR)**
+Actually Smart AI Radio — a 24/7 AI-hosted Discord radio.
+
+<sub>
+<img src="https://img.shields.io/github/stars/neooriginal/ASAR?style=flat-square&color=6e7681&label=★" alt="stars"/>
+<img src="https://img.shields.io/github/languages/top/neooriginal/ASAR?style=flat-square&color=6e7681&label=" alt="language"/>
+</sub>
+
 </td>
-<td width="50%">
-<a href="https://github.com/neooriginal/Aether">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=neooriginal&repo=Aether&theme=tokyonight&bg_color=0d1117&border_color=30363d&hide_border=false" alt="Aether"/>
-</a>
+<td width="50%" valign="top">
+
+**[Aether](https://github.com/neooriginal/Aether)**
+Next-generation memory system for AI-human collaboration.
+
+<sub>
+<img src="https://img.shields.io/github/stars/neooriginal/Aether?style=flat-square&color=6e7681&label=★" alt="stars"/>
+<img src="https://img.shields.io/github/languages/top/neooriginal/Aether?style=flat-square&color=6e7681&label=" alt="language"/>
+</sub>
+
 </td>
 </tr>
 </table>
+
 </div>
 
 <details>
-<summary><b>📚 More projects</b> — click to expand</summary>
+<summary><b>📚 More experiments</b> — click to expand</summary>
 <br/>
 
 **AI Agents & Assistants**
@@ -182,9 +258,6 @@ Self-hosted, privacy-first tools: AI agents, mail, documents, health, and data c
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=neooriginal&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=11b7ac&title_color=11b7ac&icon_color=11b7ac&text_color=c9d1d9&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neooriginal&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=11b7ac&title_color=11b7ac&text_color=c9d1d9&langs_count=8" alt="top languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=neooriginal&theme=tokyonight&background=0d1117&border=11b7ac&stroke=11b7ac&fire=11b7ac&currStreakNum=11b7ac&sideNums=11b7ac&ring=11b7ac" alt="streak"/>
 
