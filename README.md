@@ -48,10 +48,7 @@ self-hosted and privacy-first by design.
 **[NeoAgent](https://github.com/NeoLabs-Systems/NeoAgent)**
 Self-hosted AI agent for automation, messaging, tools, integrations, and device control.
 
-<sub>
-<img src="https://img.shields.io/github/stars/NeoLabs-Systems/NeoAgent?style=flat-square&color=11b7ac&label=★" alt="stars"/>
-<img src="https://img.shields.io/github/languages/top/NeoLabs-Systems/NeoAgent?style=flat-square&color=067c70&label=" alt="language"/>
-</sub>
+<sub>⭐ 19 &nbsp;·&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" height="18"/></sub>
 
 </td>
 <td width="50%" valign="top">
@@ -59,10 +56,7 @@ Self-hosted AI agent for automation, messaging, tools, integrations, and device 
 **[NeoMail](https://github.com/NeoLabs-Systems/NeoMail)**
 Self-hosted AI email client, made for AI.
 
-<sub>
-<img src="https://img.shields.io/github/stars/NeoLabs-Systems/NeoMail?style=flat-square&color=11b7ac&label=★" alt="stars"/>
-<img src="https://img.shields.io/github/languages/top/NeoLabs-Systems/NeoMail?style=flat-square&color=067c70&label=" alt="language"/>
-</sub>
+<sub>⭐ 1 &nbsp;·&nbsp; <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=fff" alt="HTML" height="18"/></sub>
 
 </td>
 </tr>
@@ -72,10 +66,7 @@ Self-hosted AI email client, made for AI.
 **[NeoDoc](https://github.com/NeoLabs-Systems/NeoDoc)**
 Document organizer and signing app.
 
-<sub>
-<img src="https://img.shields.io/github/stars/NeoLabs-Systems/NeoDoc?style=flat-square&color=11b7ac&label=★" alt="stars"/>
-<img src="https://img.shields.io/github/languages/top/NeoLabs-Systems/NeoDoc?style=flat-square&color=067c70&label=" alt="language"/>
-</sub>
+<sub>⭐ 0 &nbsp;·&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" height="18"/></sub>
 
 </td>
 <td width="50%" valign="top">
@@ -83,10 +74,7 @@ Document organizer and signing app.
 **[NeoNutri](https://github.com/NeoLabs-Systems/NeoNutri)**
 BitePal-inspired food tracking app.
 
-<sub>
-<img src="https://img.shields.io/github/stars/NeoLabs-Systems/NeoNutri?style=flat-square&color=11b7ac&label=★" alt="stars"/>
-<img src="https://img.shields.io/github/languages/top/NeoLabs-Systems/NeoNutri?style=flat-square&color=067c70&label=" alt="language"/>
-</sub>
+<sub>⭐ 0 &nbsp;·&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" height="18"/></sub>
 
 </td>
 </tr>
@@ -96,10 +84,7 @@ BitePal-inspired food tracking app.
 **[NeoDataRemoval](https://github.com/NeoLabs-Systems/NeoDataRemoval)**
 Automatically remove your private data from the internet.
 
-<sub>
-<img src="https://img.shields.io/github/stars/NeoLabs-Systems/NeoDataRemoval?style=flat-square&color=11b7ac&label=★" alt="stars"/>
-<img src="https://img.shields.io/github/languages/top/NeoLabs-Systems/NeoDataRemoval?style=flat-square&color=067c70&label=" alt="language"/>
-</sub>
+<sub>⭐ 0 &nbsp;·&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" height="18"/></sub>
 
 </td>
 <td width="50%" align="center" valign="middle">
@@ -138,10 +123,7 @@ and the occasional abandoned branch — these are experiments, not products.
 **[HowCloseToWorldEnd](https://github.com/neooriginal/HowCloseToWorldEnd)**
 Uses AI to evaluate how close the world is to ending, based on current news, and maps it.
 
-<sub>
-<img src="https://img.shields.io/github/stars/neooriginal/HowCloseToWorldEnd?style=flat-square&color=6e7681&label=★" alt="stars"/>
-<img src="https://img.shields.io/github/languages/top/neooriginal/HowCloseToWorldEnd?style=flat-square&color=6e7681&label=" alt="language"/>
-</sub>
+<sub>⭐ 60 &nbsp;·&nbsp; <img src="https://img.shields.io/badge/JavaScript-6e7681?style=flat-square&logo=javascript&logoColor=fff" alt="JavaScript" height="18"/></sub>
 
 </td>
 <td width="50%" valign="top">
@@ -149,10 +131,7 @@ Uses AI to evaluate how close the world is to ending, based on current news, and
 **[OMI.me-Apps](https://github.com/neooriginal/OMI.me-Apps)**
 A collection of apps for the OMI wearable AI device.
 
-<sub>
-<img src="https://img.shields.io/github/stars/neooriginal/OMI.me-Apps?style=flat-square&color=6e7681&label=★" alt="stars"/>
-<img src="https://img.shields.io/github/languages/top/neooriginal/OMI.me-Apps?style=flat-square&color=6e7681&label=" alt="language"/>
-</sub>
+<sub>⭐ 32 &nbsp;·&nbsp; <img src="https://img.shields.io/badge/JavaScript-6e7681?style=flat-square&logo=javascript&logoColor=fff" alt="JavaScript" height="18"/></sub>
 
 </td>
 </tr>
@@ -162,10 +141,7 @@ A collection of apps for the OMI wearable AI device.
 **[Operon.one](https://github.com/neooriginal/Operon.one)**
 An AI agent that doesn't just think — it acts, adapts, and accelerates across every platform you use.
 
-<sub>
-<img src="https://img.shields.io/github/stars/neooriginal/Operon.one?style=flat-square&color=6e7681&label=★" alt="stars"/>
-<img src="https://img.shields.io/github/languages/top/neooriginal/Operon.one?style=flat-square&color=6e7681&label=" alt="language"/>
-</sub>
+<sub>⭐ 18 &nbsp;·&nbsp; <img src="https://img.shields.io/badge/JavaScript-6e7681?style=flat-square&logo=javascript&logoColor=fff" alt="JavaScript" height="18"/></sub>
 
 </td>
 <td width="50%" valign="top">
@@ -173,10 +149,7 @@ An AI agent that doesn't just think — it acts, adapts, and accelerates across 
 **[AHDA](https://github.com/neooriginal/AHDA)**
 Actually Helpful Digital Assistant — let AI control your PC.
 
-<sub>
-<img src="https://img.shields.io/github/stars/neooriginal/AHDA?style=flat-square&color=6e7681&label=★" alt="stars"/>
-<img src="https://img.shields.io/github/languages/top/neooriginal/AHDA?style=flat-square&color=6e7681&label=" alt="language"/>
-</sub>
+<sub>⭐ 14 &nbsp;·&nbsp; <img src="https://img.shields.io/badge/JavaScript-6e7681?style=flat-square&logo=javascript&logoColor=fff" alt="JavaScript" height="18"/></sub>
 
 </td>
 </tr>
@@ -186,10 +159,7 @@ Actually Helpful Digital Assistant — let AI control your PC.
 **[ASAR](https://github.com/neooriginal/ASAR)**
 Actually Smart AI Radio — a 24/7 AI-hosted Discord radio.
 
-<sub>
-<img src="https://img.shields.io/github/stars/neooriginal/ASAR?style=flat-square&color=6e7681&label=★" alt="stars"/>
-<img src="https://img.shields.io/github/languages/top/neooriginal/ASAR?style=flat-square&color=6e7681&label=" alt="language"/>
-</sub>
+<sub>⭐ 10 &nbsp;·&nbsp; <img src="https://img.shields.io/badge/JavaScript-6e7681?style=flat-square&logo=javascript&logoColor=fff" alt="JavaScript" height="18"/></sub>
 
 </td>
 <td width="50%" valign="top">
@@ -197,10 +167,7 @@ Actually Smart AI Radio — a 24/7 AI-hosted Discord radio.
 **[Aether](https://github.com/neooriginal/Aether)**
 Next-generation memory system for AI-human collaboration.
 
-<sub>
-<img src="https://img.shields.io/github/stars/neooriginal/Aether?style=flat-square&color=6e7681&label=★" alt="stars"/>
-<img src="https://img.shields.io/github/languages/top/neooriginal/Aether?style=flat-square&color=6e7681&label=" alt="language"/>
-</sub>
+<sub>⭐ 4 &nbsp;·&nbsp; <img src="https://img.shields.io/badge/JavaScript-6e7681?style=flat-square&logo=javascript&logoColor=fff" alt="JavaScript" height="18"/></sub>
 
 </td>
 </tr>
