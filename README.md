@@ -99,6 +99,21 @@ Automatically remove your private data from the internet.
 
 <br/>
 
+<div align="center">
+
+### 🚀 NeoLabs-Rockets — *coming soon*
+
+Part of NeoLabs-Systems. Currently heads-down on a **Launch-System** — an easy, modern
+launch platform built for safety. No public release yet, but there's exciting stuff upcoming.
+
+<a href="https://github.com/NeoLabs-Rockets">
+  <img src="https://img.shields.io/badge/Watch%20the%20org-NeoLabs--Rockets-067c70?style=for-the-badge&logo=github&logoColor=white" alt="NeoLabs-Rockets"/>
+</a>
+
+</div>
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -242,6 +257,9 @@ Next-generation memory system for AI-human collaboration.
   </a>
   <a href="https://github.com/NeoLabs-Systems">
     <img src="https://img.shields.io/badge/NeoLabs--Systems-11b7ac?style=for-the-badge&logo=github&logoColor=white" alt="NeoLabs-Systems"/>
+  </a>
+  <a href="https://github.com/NeoLabs-Rockets">
+    <img src="https://img.shields.io/badge/NeoLabs--Rockets-067c70?style=for-the-badge&logo=github&logoColor=white" alt="NeoLabs-Rockets"/>
   </a>
   <a href="https://neo.eu.com">
     <img src="https://img.shields.io/badge/Website-neo.eu.com-11b7ac?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website"/>
