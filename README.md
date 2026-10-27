@@ -53,43 +53,20 @@ Self-hosted AI agent for automation, messaging, tools, integrations, and device 
 </td>
 <td width="50%" valign="top">
 
-**[NeoMail](https://github.com/NeoLabs-Systems/NeoMail)**
-Self-hosted AI email client, made for AI.
+**[NeoMail](https://github.com/NeoLabs-Systems/NeoRecall)**
+Self-hosted AI conversation summarizer
 
 <sub>⭐ 1 &nbsp;·&nbsp; <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=fff" alt="HTML" height="18"/></sub>
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
 
-**[NeoDoc](https://github.com/NeoLabs-Systems/NeoDoc)**
-Document organizer and signing app.
-
-<sub>⭐ 0 &nbsp;·&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" height="18"/></sub>
-
-</td>
 <td width="50%" valign="top">
 
 **[NeoNutri](https://github.com/NeoLabs-Systems/NeoNutri)**
 BitePal-inspired food tracking app.
 
 <sub>⭐ 0 &nbsp;·&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" height="18"/></sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[NeoDataRemoval](https://github.com/NeoLabs-Systems/NeoDataRemoval)**
-Automatically remove your private data from the internet.
-
-<sub>⭐ 0 &nbsp;·&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" height="18"/></sub>
-
-</td>
-<td width="50%" align="center" valign="middle">
-
-<sub><i>5 public repos in the org<br/>self-hosted · privacy-first · consumer-facing</i></sub>
 
 </td>
 </tr>
