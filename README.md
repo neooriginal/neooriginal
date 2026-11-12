@@ -2,7 +2,7 @@
 
 I'm Neo, founder of [NeoLabs](https://github.com/NeoLabs-Systems) in Germany. Most of my work starts the same way: something should exist, it doesn't, so I build it. Schematic to PCB, firmware to backend, API to interface.
 
-**[neo.eu.com](https://neo.eu.com)** · [contact@neo.eu.com](mailto:contact@neo.eu.com) · [Discord](https://discord.gg/f59rg2RwUT)
+**[neo.eu.com](https://neo.eu.com)** · [contact@neo.eu.com](mailto:contact@neo.eu.com) · [Hugging Face](https://huggingface.co/neooriginal) · [Discord](https://discord.gg/f59rg2RwUT)
 
 &nbsp;
 
@@ -60,6 +60,7 @@ A one-layer PCB, a mission dashboard, and a guided flow from connect to countdow
 | [NeoNutri](https://github.com/NeoLabs-Systems/NeoNutri) | Photograph a meal, get the macros. Runs on your server | 1 |
 | [WorldEndArchive](https://github.com/neooriginal/WorldEndArchive) | A crawler and offline reader. A digital Noah's Ark for knowledge | |
 | [llm-guardian](https://github.com/neooriginal/llm-guardian) | Safety research: an AI shall not allow a human to come to harm | |
+| [Hugging Face](https://huggingface.co/neooriginal) | Innovative, LLM-assisted datasets for all kinds of things | |
 | [RabbitR1 Hack](https://github.com/neooriginal/RabbitR1-OpenClaw-Hack) | Reverse-engineered the link between a Rabbit R1 and OpenClaw | |
 
 [All repositories](https://github.com/neooriginal?tab=repositories) · [NeoLabs Systems](https://github.com/NeoLabs-Systems) · [NeoLabs Rockets](https://github.com/NeoLabs-Rockets)
