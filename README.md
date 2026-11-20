@@ -30,7 +30,7 @@ A self-hosted audio memory for web, desktop and wearable clients. It tells speak
 
 &nbsp;
 
-<img src="assets/neocourrier.svg" width="100%" alt="NeoCourrier: a delivery robot for the house. It maps the floors, drives to a place, waits, and comes back.">
+<img src="assets/neocourier.svg" width="100%" alt="NeoCourier: a delivery robot for the house. It maps the floors, drives to a place, waits, and comes back.">
 
 Two hub motors, an ESP32 for everything with a safety requirement, a Raspberry Pi 5 with LiDAR for the rest, and a LoRa radio. A drive command only lasts 1000 ms, so anything that breaks stops the wheels. It also asks people to open doors. Private repo for now.
 
